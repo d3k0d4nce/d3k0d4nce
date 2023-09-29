@@ -9,7 +9,7 @@ I'm Java Developer
 * 🌍  I'm based in Saratov, Russia ❤️
 * ✉️  You can contact me at [kishko.2003@list.ru](mailto:kishko.2003@list.ru)
 * 🚀  I'm currently working on [TaskTrade](http://github.com/TaskTradeHub)
-* 🧠  I'm learning Java, Spring Boot. PostgreSQL, Docker, Kubernetes and etc.
+* 🧠  I'm learning Java, Spring Boot. PostgreSQL, Docker, Kubernetes etc.
 
 <a href="https://www.github.com/d3k0d4nce" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/d3k0d4nce?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
